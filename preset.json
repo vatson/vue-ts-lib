@@ -1,0 +1,12 @@
+{
+  "useConfigFiles": true,
+  "plugins": {
+    "@vue/cli-plugin-typescript": {
+      "classComponent": true
+    },
+    "vue-cli-plugin-ts-bundler": {
+      "lib": true,
+      "incl": true
+    }
+  }
+}
