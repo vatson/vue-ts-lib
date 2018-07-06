@@ -6,7 +6,8 @@
     },
     "vue-cli-plugin-ts-bundler": {
       "lib": true,
-      "incl": true
+      "incl": true,
+      "addExternals": true
     }
   }
 }
