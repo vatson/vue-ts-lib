@@ -5,8 +5,8 @@
       "classComponent": true
     },
     "vue-cli-plugin-ts-bundler": {
-      "lib": true,
-      "incl": true,
+      "buildAsLib": true,
+      "bundleAfterBuild": true,
       "addExternals": true
     }
   }
