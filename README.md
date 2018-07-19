@@ -18,6 +18,7 @@ That's it. Everything is ready.
 - [@vue/cli-plugin-typescript](https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-typescript) - TypeScript loader 
   - `classComponent: true`
 - [vue-cli-plugin-ts-bundler](https://github.com/vatson/vue-cli-plugin-ts-bundler) - to bundle declaration files and update npm scripts
+- [https://github.com/vatson/vue-cli-plugin-ts-paths](https://github.com/vatson/vue-cli-plugin-ts-paths) helps to avoid duplication of configurations for your path aliases
 
 
 ## License 
